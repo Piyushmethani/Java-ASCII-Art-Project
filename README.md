@@ -76,9 +76,3 @@ For example, choosing **Single Character (A)** might display:
 
 
 ## 📄 License
-
-This project is open-source under the **MIT License**.
-
----
-
-Do you want me to also **add ASCII art banners of the menus** in the README (like showing examples of words or numbers in ASCII art), or should we keep it clean and simple?
