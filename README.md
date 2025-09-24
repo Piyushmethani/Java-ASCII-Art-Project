@@ -28,7 +28,7 @@ The program offers **4 main menus**:
 
 1. Clone this repository:
 
-   git clone https://github.com/your-username/ascii-art-java.git
+   git clone https://github.com/Piyushmethani/Java-ASCII-Art-Project.git
    ```
 2. Navigate to the project folder:
 
